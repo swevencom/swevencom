@@ -2,7 +2,7 @@
 
 Founder @ Wone
 
-Building a white-label booking platform for local businesses.
+Building a white-label booking platform for businesses.
 
 Flutter • React • TypeScript • Supabase • PostgreSQL • Cloudflare
 
